@@ -17,7 +17,7 @@ Enmin Zhao, Shihong Deng, Yifan Zang, Yongxin Kang, Kai Li, Junliang Xing.
 *International Joint Conference on Artificial Intelligence, (IJCAI) 2020.*  
 [PDF](https://www.ijcai.org/Proceedings/2020/0290.pdf){: .btn}
 
-- **Deep Cost-sensitive and Order-preserving Feature Learning for Cross-population Age Estimation**  
+- **Deep Cost-Sensitive and Order-Preserving Feature Learning for Cross-Population Age Estimation**  
 Kai Li, Junliang Xing, Chi Su, Weiming Hu, Yundong Zhang, Stephen Maybank. 
 *IEEE Conference on Computer Vision and Pattern Recognition, (CVPR) 2018.*  
 [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf){: .btn}

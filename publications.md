@@ -25,6 +25,10 @@ Enmin Zhao, Shihong Deng, Yifan Zang, Yongxin Kang, Kai Li, Junliang Xing.
 Kai Li, Hang Xu, Meng Zhang, Enmin Zhao, Zhe Wu, Junliang Xing, Kaiqi Huang.   
 [PDF](https://arxiv.org/pdf/2012.06168.pdf){: .btn}
 
+- **L2E: Learning to Exploit Your Opponent**  
+Zhe Wu, Kai Li, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing.   
+[PDF](https://openreview.net/pdf?id=m4PC1eUknQG){: .btn}
+
 
 
 

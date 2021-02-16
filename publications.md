@@ -22,6 +22,10 @@ Kai Li, Junliang Xing, Chi Su, Weiming Hu, Yundong Zhang, Stephen Maybank.
 *IEEE Conference on Computer Vision and Pattern Recognition, (CVPR) 2018*  
 [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf){: .btn}
 
+- **D2C: Deep cumulatively and comparatively learning for human age estimation**  
+Kai Li, Junliang Xing, Weiming Hu, Stephen J Maybank. 
+*Pattern Recognition, 2017*  
+[PDF](/static/report/D2C.pdf){: .btn}
 
 
 **Technical Reports:**

@@ -8,9 +8,15 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 
 
 - **Exploration via State Influence Modeling**  
-  Yongxin Kang, Enmin Zhao, Kai Li, Junliang Xing 
+  Yongxin Kang, Enmin Zhao, Kai Li, Junliang Xing. 
   *AAAI Conference on Artificial Intelligence, (AAAI) 2021*  
-  [PDF](https://arxiv.org/pdf/2102.01363.pdf){: .btn}
+  [PDF](https://?){: .btn}
+
+- **Potential Driven Reinforcement Learning for Hard Exploration Tasks**  
+Enmin Zhao, Shihong Deng, Yifan Zang, Yongxin Kang, Kai Li, Junliang Xing. 
+*International Joint Conference on Artificial Intelligence, (IJCAI) 2020*  
+[PDF](https://www.ijcai.org/Proceedings/2020/0290.pdf){: .btn}
+
 
 
 **Non-refereed project reports:**

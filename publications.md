@@ -27,6 +27,11 @@ Kai Li, Junliang Xing, Weiming Hu, Stephen J Maybank.
 *Pattern Recognition, 2017*  
 [PDF](/static/report/D2C.pdf){: .btn}
 
+- **Diagnosing deep learning models for high accuracy age estimation from a single image**  
+Junliang Xing, Kai Li, Weiming Hu, Chunfeng Yuan, Haibin Ling. 
+*Pattern Recognition, 2017*  
+[PDF](/static/report/Diagnosing.pdf){: .btn}
+
 
 **Technical Reports:**
 

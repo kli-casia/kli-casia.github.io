@@ -34,7 +34,7 @@ Junliang Xing, Kai Li, Weiming Hu, Chunfeng Yuan, Haibin Ling.
 
 - **Predicting image memorability by multi-view adaptive regression**  
 Houwen Peng, Kai Li, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu. 
-* ACM international conference on Multimedia, (ACM Multimedia) 2015*  
+*ACM international conference on Multimedia, (ACM Multimedia) 2015*  
 [PDF](/static/report/MM15.pdf){: .btn}
 
 

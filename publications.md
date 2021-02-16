@@ -17,22 +17,22 @@ Enmin Zhao, Shihong Deng, Yifan Zang, Yongxin Kang, Kai Li, Junliang Xing.
 *International Joint Conference on Artificial Intelligence, (IJCAI) 2020.*  
 [PDF](https://www.ijcai.org/Proceedings/2020/0290.pdf){: .btn}
 
-- **Deep cost-sensitive and order-preserving feature learning for cross-population age estimation**  
+- **Deep Cost-sensitive and Order-preserving Feature Learning for Cross-population Age Estimation**  
 Kai Li, Junliang Xing, Chi Su, Weiming Hu, Yundong Zhang, Stephen Maybank. 
 *IEEE Conference on Computer Vision and Pattern Recognition, (CVPR) 2018.*  
 [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf){: .btn}
 
-- **D2C: Deep cumulatively and comparatively learning for human age estimation**  
+- **D2C: Deep Cumulatively and Comparatively Learning for Human Age Estimation**  
 Kai Li, Junliang Xing, Weiming Hu, Stephen J Maybank. 
 *Pattern Recognition, 2017.*  
 [PDF](/static/report/D2C.pdf){: .btn}
 
-- **Diagnosing deep learning models for high accuracy age estimation from a single image**  
+- **Diagnosing Deep Learning Models for High Accuracy Age Estimation from a Single Image**  
 Junliang Xing, Kai Li, Weiming Hu, Chunfeng Yuan, Haibin Ling. 
 *Pattern Recognition, 2017.*  
 [PDF](/static/report/Diagnosing.pdf){: .btn}
 
-- **Predicting image memorability by multi-view adaptive regression**  
+- **Predicting Image Memorability by Multi-view Adaptive Regression**  
 Houwen Peng, Kai Li, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu. 
 *ACM International Conference on Multimedia, (ACM Multimedia) 2015.*  
 [PDF](/static/report/MM15.pdf){: .btn}

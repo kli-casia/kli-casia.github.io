@@ -7,6 +7,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 <br />
 
 
+**Conference and Journal Papers:**
+
 - **Exploration via State Influence Modeling**  
   Yongxin Kang, Enmin Zhao, Kai Li, Junliang Xing. 
   *AAAI Conference on Artificial Intelligence (AAAI), 2021.*  

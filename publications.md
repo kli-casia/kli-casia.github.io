@@ -43,7 +43,7 @@ Houwen Peng, Kai Li, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu.
 **Technical Reports:**
 
 - **L2E: Learning to Exploit Your Opponent**  
-Zhe Wu, Kai Li, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing.   
+Zhe Wu<sup>*</sup>, Kai Li<sup>*</sup>, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing.   
 [arXiv](https://arxiv.org/abs/2102.09381){: .btn}
 
 

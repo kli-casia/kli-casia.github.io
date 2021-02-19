@@ -35,7 +35,7 @@ Junliang Xing, Kai Li, Weiming Hu, Chunfeng Yuan, Haibin Ling.
 [PDF](/static/report/Diagnosing.pdf){: .btn}
 
 - **Predicting Image Memorability by Multi-View Adaptive Regression**  
-Houwen Peng^*, Kai Li^*, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu. 
+Houwen Peng\*, Kai Li\*, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu. 
 *ACM International Conference on Multimedia (ACM Multimedia), 2015.*  
 [PDF](/static/report/MM15.pdf){: .btn}
 
@@ -43,7 +43,7 @@ Houwen Peng^*, Kai Li^*, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu.
 **Technical Reports:**
 
 - **L2E: Learning to Exploit Your Opponent**  
-Zhe Wu<sup>*</sup>, Kai Li<sup>*</sup>, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing.   
+Zhe Wu\*, Kai Li\*, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing.   
 [arXiv](https://arxiv.org/abs/2102.09381){: .btn}
 
 

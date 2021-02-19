@@ -42,14 +42,14 @@ Houwen Peng, Kai Li, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu.
 
 **Technical Reports:**
 
-- **OpenHoldem: An Open Toolkit for Large-Scale Imperfect-Information Game Research**  
-Kai Li, Hang Xu, Meng Zhang, Enmin Zhao, Zhe Wu, Junliang Xing, Kaiqi Huang.   
-[PDF](https://arxiv.org/pdf/2012.06168.pdf){: .btn}
-
 - **L2E: Learning to Exploit Your Opponent**  
 Zhe Wu, Kai Li, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing.   
-[PDF](https://openreview.net/pdf?id=m4PC1eUknQG){: .btn}
+[arXiv](https://arxiv.org/abs/2102.09381){: .btn}
 
+
+- **OpenHoldem: An Open Toolkit for Large-Scale Imperfect-Information Game Research**  
+Kai Li, Hang Xu, Meng Zhang, Enmin Zhao, Zhe Wu, Junliang Xing, Kaiqi Huang.   
+[arXiv](https://arxiv.org/abs/2012.06168){: .btn}
 
 <br /> 
 

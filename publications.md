@@ -9,6 +9,12 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 
 **Conference and Journal Papers:**
 
+- **An Opponent Modeling and Strategy Integration Framework for Texas Hold'em**  
+  Meng Zhang, Kai Li, Zhe Wu, Yifan Zang, Hang Xu, Junliang Xing. 
+  *Acta Automatica Sinica (in Chinese), 2021.*
+  [PDF](https://?){: .btn}
+
+
 - **Exploration via State Influence Modeling**  
   Yongxin Kang, Enmin Zhao, Kai Li, Junliang Xing. 
   *AAAI Conference on Artificial Intelligence (AAAI), 2021.*  

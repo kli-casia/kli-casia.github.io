@@ -12,50 +12,50 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 - **An Opponent Modeling and Strategy Integration Framework for Texas Hold'em**  
   Meng Zhang, Kai Li, Zhe Wu, Yifan Zang, Hang Xu, Junliang Xing. 
   *Acta Automatica Sinica (in Chinese), 2021.*
-  [PDF](https://?){: .btn}
+  [LINK](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c210127){: .btn}
 
 
 - **Exploration via State Influence Modeling**  
   Yongxin Kang, Enmin Zhao, Kai Li, Junliang Xing. 
   *AAAI Conference on Artificial Intelligence (AAAI), 2021.*  
-  [PDF](https://?){: .btn}
+  [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/16981){: .btn}
 
 - **Potential Driven Reinforcement Learning for Hard Exploration Tasks**  
 Enmin Zhao, Shihong Deng, Yifan Zang, Yongxin Kang, Kai Li, Junliang Xing. 
 *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*  
-[PDF](https://www.ijcai.org/Proceedings/2020/0290.pdf){: .btn}
+[LINK](https://www.ijcai.org/proceedings/2020/290){: .btn}
 
 - **Deep Cost-Sensitive and Order-Preserving Feature Learning for Cross-Population Age Estimation**  
 Kai Li, Junliang Xing, Chi Su, Weiming Hu, Yundong Zhang, Stephen Maybank. 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.*  
-[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Deep_Cost-Sensitive_and_CVPR_2018_paper.pdf){: .btn}
+[LINK](https://ieeexplore.ieee.org/document/8578147){: .btn}
 
 - **D2C: Deep Cumulatively and Comparatively Learning for Human Age Estimation**  
 Kai Li, Junliang Xing, Weiming Hu, Stephen J Maybank. 
 *Pattern Recognition, 2017.*  
-[PDF](/static/report/D2C.pdf){: .btn}
+[LINK](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300092){: .btn}
 
 - **Diagnosing Deep Learning Models for High Accuracy Age Estimation from a Single Image**  
 Junliang Xing, Kai Li, Weiming Hu, Chunfeng Yuan, Haibin Ling. 
 *Pattern Recognition, 2017.*  
-[PDF](/static/report/Diagnosing.pdf){: .btn}
+[LINK](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300079){: .btn}
 
 - **Predicting Image Memorability by Multi-View Adaptive Regression**  
 Houwen Peng\*, Kai Li\*, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu. 
 *ACM International Conference on Multimedia (ACM Multimedia), 2015.*  
-[PDF](/static/report/MM15.pdf){: .btn}
+[LINK](https://dl.acm.org/doi/10.1145/2733373.2806303){: .btn}
 
 
 **Technical Reports:**
 
 - **L2E: Learning to Exploit Your Opponent**  
 Zhe Wu\*, Kai Li\*, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang Xing.   
-[arXiv](https://arxiv.org/abs/2102.09381){: .btn}
+[LINK](https://arxiv.org/abs/2102.09381){: .btn}
 
 
 - **OpenHoldem: An Open Toolkit for Large-Scale Imperfect-Information Game Research**  
 Kai Li, Hang Xu, Meng Zhang, Enmin Zhao, Zhe Wu, Junliang Xing, Kaiqi Huang.   
-[arXiv](https://arxiv.org/abs/2012.06168){: .btn}
+[LINK](https://arxiv.org/abs/2012.06168){: .btn}
 
 <br /> 
 

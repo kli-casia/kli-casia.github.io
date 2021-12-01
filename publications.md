@@ -14,7 +14,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
   *AAAI Conference on Artificial Intelligence (AAAI), 2022.*  
   [LINK](){: .btn}
 
-  - **AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit Poker via End-to-End Reinforcement Learning**  
+- **AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit Poker via End-to-End Reinforcement Learning**  
   Enmin Zhao, Renye Yan, Jinqiu Li, Kai Li, Junliang Xing. 
   *AAAI Conference on Artificial Intelligence (AAAI), 2022.*  
   [LINK](){: .btn}

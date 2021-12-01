@@ -9,6 +9,16 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 
 **Conference and Journal Papers:**
 
+- **AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms**  
+  Hang Xu\*, Kai Li\*, Haobo Fu, Qiang Fu, Junliang Xing. 
+  *AAAI Conference on Artificial Intelligence (AAAI), 2022.*  
+  [LINK](){: .btn}
+
+  - **AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit Poker via End-to-End Reinforcement Learning**  
+  Enmin Zhao, Renye Yan, Jinqiu Li, Kai Li, Junliang Xing. 
+  *AAAI Conference on Artificial Intelligence (AAAI), 2022.*  
+  [LINK](){: .btn}
+
 - **An Opponent Modeling and Strategy Integration Framework for Texas Hold'em**  
   Meng Zhang, Kai Li, Zhe Wu, Yifan Zang, Hang Xu, Junliang Xing. 
   *Acta Automatica Sinica (in Chinese), 2021.*

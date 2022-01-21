@@ -9,6 +9,12 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 
 **Selected Conference and Journal Papers:**
 
+- **Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game**  
+  Haobo Fu, Weiming Liu, Shuang Wu, Yijia Wang, Tao Yang, Kai Li, Junliang Xing, Bin Li, Bo Ma, Qiang Fu, Yang Wei. 
+  *International Conference on Learning Representations (ICLR), 2022.*  
+  [LINK](){: .btn}
+
+
 - **AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms**  
   Hang Xu\*, Kai Li\*, Haobo Fu, Qiang Fu, Junliang Xing. 
   *AAAI Conference on Artificial Intelligence (AAAI), 2022.*  

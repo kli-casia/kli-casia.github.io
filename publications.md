@@ -64,7 +64,7 @@ Zhe Wu\*, Kai Li\*, Enmin Zhao, Hang Xu, Meng Zhang, Haobo Fu, Bo An, Junliang X
 
 
 - **OpenHoldem: An Open Toolkit for Large-Scale Imperfect-Information Game Research**  
-Kai Li, Hang Xu, Meng Zhang, Enmin Zhao, Zhe Wu, Junliang Xing, Kaiqi Huang.   
+Kai Li, Hang Xu, Enmin Zhao, Zhe Wu, Junliang Xing.   
 [LINK](https://arxiv.org/abs/2012.06168){: .btn}
 
 <br /> 

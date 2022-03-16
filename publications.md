@@ -12,7 +12,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 - **Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game**  
   Haobo Fu, Weiming Liu, Shuang Wu, Yijia Wang, Tao Yang, Kai Li, Junliang Xing, Bin Li, Bo Ma, Qiang Fu, Yang Wei. 
   *International Conference on Learning Representations (ICLR), 2022.*  
-  [LINK](){: .btn}
+  [LINK](https://openreview.net/forum?id=DTXZqTNV5nW){: .btn}
 
 
 - **AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms**  

@@ -54,8 +54,3 @@ Junliang Xing, Kai Li, Weiming Hu, Chunfeng Yuan, Haibin Ling.
 Houwen Peng\*, Kai Li\*, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu. 
 *ACM International Conference on Multimedia (ACM Multimedia), 2015.*  
 [LINK](https://dl.acm.org/doi/10.1145/2733373.2806303){: .btn}
-
-
-<br /> 
-
-

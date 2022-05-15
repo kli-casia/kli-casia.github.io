@@ -9,6 +9,11 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 
 **Selected Conference and Journal Papers:**
 
+- **Greedy when Sure and Conservative when Uncertain about the Opponents**  
+  Haobo Fu, Ye Tian, Hongxiang Yu, Weiming Liu, Shuang Wu, Jiechao Xiong, Ying Wen, Kai Li, Junliang Xing, Qiang Fu, Wei Yang
+  *International Conference on Machine Learning (ICML), 2022.*  
+  [LINK](){: .btn}
+
 - **Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game**  
   Haobo Fu, Weiming Liu, Shuang Wu, Yijia Wang, Tao Yang, Kai Li, Junliang Xing, Bin Li, Bo Ma, Qiang Fu, Yang Wei. 
   *International Conference on Learning Representations (ICLR), 2022.*  

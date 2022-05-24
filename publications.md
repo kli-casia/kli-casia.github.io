@@ -11,7 +11,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 
 - **Greedy when Sure and Conservative when Uncertain about the Opponents**  
   Haobo Fu, Ye Tian, Hongxiang Yu, Weiming Liu, Shuang Wu, Jiechao Xiong, Ying Wen, Kai Li, Junliang Xing, Qiang Fu, Wei Yang
-  *International Conference on Machine Learning (ICML), 2022, **Spotlight** .*  
+  *International Conference on Machine Learning (ICML), 2022, **Spotlight**.*  
   [LINK](){: .btn}
 
 - **Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game**  

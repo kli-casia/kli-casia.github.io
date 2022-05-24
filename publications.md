@@ -11,7 +11,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 
 - **Greedy when Sure and Conservative when Uncertain about the Opponents**  
   Haobo Fu, Ye Tian, Hongxiang Yu, Weiming Liu, Shuang Wu, Jiechao Xiong, Ying Wen, Kai Li, Junliang Xing, Qiang Fu, Wei Yang
-  *International Conference on Machine Learning (ICML), 2022.*  
+  *International Conference on Machine Learning (ICML), 2022. **Spotlight***  
   [LINK](){: .btn}
 
 - **Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game**  
@@ -22,7 +22,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PX
 
 - **AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms**  
   Hang Xu\*, Kai Li\*, Haobo Fu, Qiang Fu, Junliang Xing. 
-  *AAAI Conference on Artificial Intelligence (AAAI), 2022.*  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2022. **Oral***  
   [LINK](){: .btn}
 
 - **AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit Poker via End-to-End Reinforcement Learning**  

@@ -3,10 +3,6 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=_cY_PXgAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
-<br />
-
-
 **Selected Conference and Journal Papers:**
 
 - **Sequential Cooperative Multi-Agent Reinforcement Learning**  

@@ -5,6 +5,17 @@ title: Publications
 
 **Selected Conference and Journal Papers:**
 
+- **OpenHoldem: A Benchmark for Large-Scale Imperfect-Information Game Research**  
+  Kai Li, Hang Xu, Enmin Zhao, Zhe Wu, Junliang Xing.  
+  *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.*  
+  [LINK](){: .btn}
+  
+ - **Sample Efficient Reinforcement Learning Using Graph-Based Memory Reconstruction**  
+  Yongxin Kang, Enmin Zhao, Yifan Zang, Lijuan Li, Kai Li, Pin Tao, Junliang Xing.  
+  *IEEE Transactions on Artificial Intelligence (TAI), 2023.*  
+  [LINK](){: .btn}
+
+
 - **Sequential Cooperative Multi-Agent Reinforcement Learning**  
   Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing.  
   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023.*  

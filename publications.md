@@ -5,11 +5,10 @@ title: Publications
 
 **Selected Conference and Journal Papers:**
 
-
 - **Automatic Grouping for Efficient Cooperative Multi-Agent Reinforcement Learning**  
   Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *Neural Information Processing Systems (NeurIPS), 2023.*  
-  [LINK](){: .btn}
+  [LINK](https){: .btn}
 
 - **OpenHoldem: A Benchmark for Large-Scale Imperfect-Information Game Research**  
   Kai Li, Hang Xu, Enmin Zhao, Zhe Wu, Junliang Xing.  

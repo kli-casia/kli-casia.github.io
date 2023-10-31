@@ -39,7 +39,7 @@ title: Publications
 
 
 - **AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms**  
-  Hang Xu\*, Kai Li\*, Haobo Fu, Qiang Fu, Junliang Xing.  
+  Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2022, **Oral**.*  
   [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/20460){: .btn}
 
@@ -74,6 +74,6 @@ title: Publications
   [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0031320317300079){: .btn}
 
 - **Predicting Image Memorability by Multi-View Adaptive Regression**  
-  Houwen Peng\*, Kai Li\*, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu.  
+  Houwen Peng, Kai Li, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu.  
   *ACM International Conference on Multimedia (ACM Multimedia), 2015.*  
   [LINK](https://dl.acm.org/doi/10.1145/2733373.2806303){: .btn}

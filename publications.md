@@ -5,7 +5,7 @@ title: Publications
 
 **Selected Conference and Journal Papers:**
 
-- **Not All Tasks Are Equally Difficult: Multi-Task Deep Reinforcement Learning with Dynamic Depth Routing**  
+- **Not All Tasks Are Equally Difficult: Multi-Task Reinforcement Learning with Dynamic Depth Routing**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2024.*  
   [LINK](){: .btn}

@@ -5,6 +5,11 @@ title: Publications
 
 **Selected Conference and Journal Papers:**
 
+- **Not All Tasks Are Equally Difficult: Multi-Task Deep Reinforcement Learning with Dynamic Depth Routing**  
+  Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2024.*  
+  [LINK](){: .btn}
+
 - **Automatic Grouping for Efficient Cooperative Multi-Agent Reinforcement Learning**  
   Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *Neural Information Processing Systems (NeurIPS), 2023.*  

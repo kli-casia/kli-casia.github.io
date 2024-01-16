@@ -6,7 +6,7 @@ title: Publications
 **Selected Conference and Journal Papers:**
 
 - **Dynamic Discounted Counterfactual Regret Minimization**  
-  Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.
+  Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
   *International Conference on Learning Representations (ICLR), 2024, **Spotlight**.*  
   [LINK](https://openreview.net/forum?id=6PbvbLyqT6){: .btn}
 

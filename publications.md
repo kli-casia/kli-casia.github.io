@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**Selected Conference and Journal Papers:**
+**Recent Papers:**
 
 - **Dynamic Discounted Counterfactual Regret Minimization**  
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
@@ -73,6 +73,8 @@ title: Publications
   *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*  
   [LINK](https://www.ijcai.org/proceedings/2020/290){: .btn}
 
+<!--
+
 - **Deep Cost-Sensitive and Order-Preserving Feature Learning for Cross-Population Age Estimation**  
   Kai Li, Junliang Xing, Chi Su, Weiming Hu, Yundong Zhang, Stephen Maybank.  
   *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.*  
@@ -92,3 +94,5 @@ title: Publications
   Houwen Peng, Kai Li, Bing Li, Haibin Ling, Weihua Xiong, Weiming Hu.  
   *ACM International Conference on Multimedia (ACM Multimedia), 2015.*  
   [LINK](https://dl.acm.org/doi/10.1145/2733373.2806303){: .btn}
+
+  -->

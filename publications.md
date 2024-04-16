@@ -5,6 +5,12 @@ title: Publications
 
 **Recent Papers:**
 
+- **PDCFR+: Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent**  
+  Hang Xu, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
+  *International Joint Conference on Artificial Intelligence (IJCAI), 2024.*  
+  [LINK](){: .btn}
+
+
 - **Dynamic Discounted Counterfactual Regret Minimization**  
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
   *International Conference on Learning Representations (ICLR), 2024, **Spotlight, Top 5%**.*  
@@ -18,7 +24,7 @@ title: Publications
 - **Not All Tasks Are Equally Difficult: Multi-Task Deep Reinforcement Learning with Dynamic Depth Routing**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2024.*  
-  [LINK](){: .btn}
+  [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/29129){: .btn}
 
 - **Automatic Grouping for Efficient Cooperative Multi-Agent Reinforcement Learning**  
   Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  

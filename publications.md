@@ -10,16 +10,17 @@ title: Publications
   *International Joint Conference on Artificial Intelligence (IJCAI), 2024.*  
   [LINK](){: .btn}
 
+- **Towards Offline Opponent Modeling with In-context Learning**  
+  Yuheng Jing, Kai Li, Bingyun Liu, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
+  *International Conference on Learning Representations (ICLR), 2024.*  
+  [LINK](https://openreview.net/forum?id=2SwHngthig){: .btn}
+  
 
 - **Dynamic Discounted Counterfactual Regret Minimization**  
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
   *International Conference on Learning Representations (ICLR), 2024, **Spotlight, Top 5%**.*  
   [LINK](https://openreview.net/forum?id=6PbvbLyqT6){: .btn}
 
-- **Towards Offline Opponent Modeling with In-context Learning**  
-  Yuheng Jing, Kai Li, Bingyun Liu, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
-  *International Conference on Learning Representations (ICLR), 2024.*  
-  [LINK](https://openreview.net/forum?id=2SwHngthig){: .btn}
 
 - **Not All Tasks Are Equally Difficult: Multi-Task Deep Reinforcement Learning with Dynamic Depth Routing**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  

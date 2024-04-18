@@ -5,7 +5,7 @@ title: Publications
 
 **Recent Papers:**
 
-- **PDCFR+: Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent**  
+- **Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent**  
   Hang Xu, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
   *International Joint Conference on Artificial Intelligence (IJCAI), 2024.*  
   [LINK](){: .btn}

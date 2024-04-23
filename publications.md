@@ -7,8 +7,9 @@ title: Publications
 
 - **Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent**  
   Hang Xu, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
-  *International Joint Conference on Artificial Intelligence (IJCAI), 2024.*  
-  [Paper](https://arxiv.org/abs/2404.13891){: .btn}
+  *International Joint Conference on Artificial Intelligence (IJCAI), 2024.*
+  [Paper](){: .btn}
+  [ArXiv](https://arxiv.org/abs/2404.13891){: .btn}
   [Code](https://github.com/rpSebastian/PDCFRPlus){: .btn}
 
 - **Towards Offline Opponent Modeling with In-context Learning**  
@@ -28,60 +29,66 @@ title: Publications
 - **Not All Tasks Are Equally Difficult: Multi-Task Deep Reinforcement Learning with Dynamic Depth Routing**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2024.*  
-  [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/29129){: .btn}
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29129){: .btn}
+  [ArXiv](https://arxiv.org/abs/2312.14472){: .btn}
 
 - **Automatic Grouping for Efficient Cooperative Multi-Agent Reinforcement Learning**  
   Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *Neural Information Processing Systems (NeurIPS), 2023.*  
-  [LINK](https://openreview.net/forum?id=CGj72TyGJy){: .btn}
+  [Paper](https://openreview.net/forum?id=CGj72TyGJy){: .btn}
+  [Code](https://openreview.net/attachment?id=CGj72TyGJy&name=supplementary_material){: .btn}
 
 - **OpenHoldem: A Benchmark for Large-Scale Imperfect-Information Game Research**  
   Kai Li, Hang Xu, Enmin Zhao, Zhe Wu, Junliang Xing.  
   *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.*  
-  [LINK](https://ieeexplore.ieee.org/document/10153087){: .btn}
+  [Paper](https://ieeexplore.ieee.org/document/10153087){: .btn}
+  
   
  - **Sample Efficient Reinforcement Learning Using Graph-Based Memory Reconstruction**  
   Yongxin Kang, Enmin Zhao, Yifan Zang, Lijuan Li, Kai Li, Pin Tao, Junliang Xing.  
   *IEEE Transactions on Artificial Intelligence (TAI), 2023.*  
-  [LINK](https://ieeexplore.ieee.org/document/10105983/){: .btn}
+  [Paper](https://ieeexplore.ieee.org/document/10105983/){: .btn}
 
 
 - **Sequential Cooperative Multi-Agent Reinforcement Learning**  
   Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing.  
   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023.*  
-  [LINK](https://dl.acm.org/doi/abs/10.5555/3545946.3598674){: .btn}
+  [Paper](https://dl.acm.org/doi/abs/10.5555/3545946.3598674){: .btn}
 
 
 - **Greedy when Sure and Conservative when Uncertain about the Opponents**  
   Haobo Fu, Ye Tian, Hongxiang Yu, Weiming Liu, Shuang Wu, Jiechao Xiong, Ying Wen, Kai Li, Junliang Xing, Qiang Fu, Wei Yang.  
   *International Conference on Machine Learning (ICML), 2022, **Spotlight**.*  
-  [LINK](https://proceedings.mlr.press/v162/fu22b.html){: .btn}
+  [Paper](https://proceedings.mlr.press/v162/fu22b.html){: .btn}
+  [Code](https://github.com/YeTianJHU/GSCU){: .btn}
 
 - **Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game**  
   Haobo Fu, Weiming Liu, Shuang Wu, Yijia Wang, Tao Yang, Kai Li, Junliang Xing, Bin Li, Bo Ma, Qiang Fu, Yang Wei.  
   *International Conference on Learning Representations (ICLR), 2022.*  
-  [LINK](https://openreview.net/forum?id=DTXZqTNV5nW){: .btn}
-
+  [Paper](https://openreview.net/forum?id=DTXZqTNV5nW){: .btn}
+  [Code](https://openreview.net/attachment?id=DTXZqTNV5nW&name=supplementary_material){: .btn}
 
 - **AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms**  
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2022, **Oral**.*  
-  [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/20460){: .btn}
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20460){: .btn}
+  [Code](https://github.com/rpSebastian/AutoCFR){: .btn}
 
 - **AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit Poker via End-to-End Reinforcement Learning**  
   Enmin Zhao, Renye Yan, Jinqiu Li, Kai Li, Junliang Xing.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2022. **Distinguished Paper Award!***  
-  [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/20394){: .btn}
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20394){: .btn}
 
 - **Exploration via State Influence Modeling**  
   Yongxin Kang, Enmin Zhao, Kai Li, Junliang Xing.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2021.*  
-  [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/16981){: .btn}
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16981){: .btn}
 
 - **Potential Driven Reinforcement Learning for Hard Exploration Tasks**  
   Enmin Zhao, Shihong Deng, Yifan Zang, Yongxin Kang, Kai Li, Junliang Xing.  
   *International Joint Conference on Artificial Intelligence (IJCAI), 2020.*  
-  [LINK](https://www.ijcai.org/proceedings/2020/290){: .btn}
+  [Paper](https://www.ijcai.org/proceedings/2020/290){: .btn}
+  [Code](https://github.com/ZhaoEnMin/PotER){: .btn}
 
 <!--
 

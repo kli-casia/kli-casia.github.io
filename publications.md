@@ -43,7 +43,6 @@ title: Publications
   *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.*  
   [Paper](https://ieeexplore.ieee.org/document/10153087){: .btn}
   [ArXiv](https://arxiv.org/abs/2012.06168){: .btn}
-  [Website](http://holdem.ia.ac.cn/){: .btn}
   [News](http://www.ia.cas.cn/xwzx/kydt/202011/t20201109_5742123.html){: .btn}
   
   

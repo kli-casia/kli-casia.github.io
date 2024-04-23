@@ -54,6 +54,7 @@ title: Publications
   Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing.  
   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023.*  
   [Paper](https://dl.acm.org/doi/abs/10.5555/3545946.3598674){: .btn}
+  [Code](https://github.com/zyfsjycc/SeCA){: .btn}
 
 
 - **Greedy when Sure and Conservative when Uncertain about the Opponents**  

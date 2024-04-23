@@ -8,7 +8,8 @@ title: Publications
 - **Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent**  
   Hang Xu, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
   *International Joint Conference on Artificial Intelligence (IJCAI), 2024.*  
-  [LINK](){: .btn}
+  [Paper](https://arxiv.org/abs/2404.13891){: .btn}
+  [Code](https://github.com/rpSebastian/PDCFRPlus){: .btn}
 
 - **Towards Offline Opponent Modeling with In-context Learning**  
   Yuheng Jing, Kai Li, Bingyun Liu, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  

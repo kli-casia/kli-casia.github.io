@@ -7,34 +7,34 @@ title: Publications
 
 - **Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent**  
   Hang Xu, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
-  *International Joint Conference on Artificial Intelligence (IJCAI), 2024. (Corresponding author)*  
+  *International Joint Conference on Artificial Intelligence (IJCAI), 2024. (Corresponding Author)*  
   [Paper](){: .btn}
   [ArXiv](https://arxiv.org/abs/2404.13891){: .btn}
   [Code](https://github.com/rpSebastian/PDCFRPlus){: .btn}
 
 - **Towards Offline Opponent Modeling with In-context Learning**  
   Yuheng Jing, Kai Li, Bingyun Liu, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
-  *International Conference on Learning Representations (ICLR), 2024. (Corresponding author)*  
+  *International Conference on Learning Representations (ICLR), 2024. (Corresponding Author)*  
   [Paper](https://openreview.net/forum?id=2SwHngthig){: .btn}
   [Code](https://openreview.net/attachment?id=2SwHngthig&name=supplementary_material){: .btn}
   
 
 - **Dynamic Discounted Counterfactual Regret Minimization**  
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
-  *International Conference on Learning Representations (ICLR), 2024, **Spotlight, Top 5%**. (Corresponding author)*  
+  *International Conference on Learning Representations (ICLR), 2024, **Spotlight, Top 5%**. (Corresponding Author)*  
   [Paper](https://openreview.net/forum?id=6PbvbLyqT6){: .btn}
   [Code](https://github.com/rpSebastian/DDCFR){: .btn}
 
 
 - **Not All Tasks Are Equally Difficult: Multi-Task Deep Reinforcement Learning with Dynamic Depth Routing**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
-  *AAAI Conference on Artificial Intelligence (AAAI), 2024. (Corresponding author)*  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2024. (Corresponding Author)*  
   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29129){: .btn}
   [ArXiv](https://arxiv.org/abs/2312.14472){: .btn}
 
 - **Automatic Grouping for Efficient Cooperative Multi-Agent Reinforcement Learning**  
   Yifan Zang, Jinmin He, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
-  *Neural Information Processing Systems (NeurIPS), 2023. (Corresponding author)*  
+  *Neural Information Processing Systems (NeurIPS), 2023. (Corresponding Author)*  
   [Paper](https://openreview.net/forum?id=CGj72TyGJy){: .btn}
   [Code](https://github.com/zyfsjycc/gomarl){: .btn}
 

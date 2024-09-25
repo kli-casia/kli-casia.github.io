@@ -5,6 +5,16 @@ title: Publications
 
 **Recent Papers:**
 
+- **Efficient Multi-task Reinforcement Learning with Cross-Task Policy Guidance**  
+  Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
+  *Neural Information Processing Systems (NeurIPS), 2024. (Corresponding Author)*  
+  [Paper](){: .btn}
+
+- **Opponent Modeling with In-context Search**  
+  Yuheng Jing, Bingyun Liu, Kai Li, Yifan Zang, Haobo Fu, QIANG FU, Junliang Xing, Jian Cheng.   
+  *Neural Information Processing Systems (NeurIPS), 2024. (Corresponding Author)*  
+  [Paper](){: .btn}
+
 - **Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent**  
   Hang Xu, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
   *International Joint Conference on Artificial Intelligence (IJCAI), 2024. (Corresponding Author)*  

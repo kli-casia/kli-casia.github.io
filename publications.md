@@ -7,7 +7,7 @@ title: Publications
 
 - **Automatically Designing Counterfactual Regret Minimization Algorithms for Solving Imperfect-Information Games**  
   Kai Li, Hang Xu, Haobo Fu, Qiang Fu, Junliang Xing.  
-  *Artificial Intelligence (AIJ), 2024.*  
+  *Artificial Intelligence (AI), 2024.*  
 
 - **Efficient Multi-task Reinforcement Learning with Cross-Task Policy Guidance**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   

@@ -5,9 +5,6 @@ title: Publications
 
 **Recent Papers:**
 
-- **Automatically Designing Counterfactual Regret Minimization Algorithms for Solving Imperfect-Information Games**  
-  Kai Li, Hang Xu, Haobo Fu, Qiang Fu, Junliang Xing.  
-  *Artificial Intelligence (AI), 2024.*  
 
 - **Efficient Multi-task Reinforcement Learning with Cross-Task Policy Guidance**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
@@ -16,6 +13,10 @@ title: Publications
 - **Opponent Modeling with In-context Search**  
   Yuheng Jing, Bingyun Liu, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
   *Neural Information Processing Systems (NeurIPS), 2024. (Corresponding Author)*  
+
+- **Automatically Designing Counterfactual Regret Minimization Algorithms for Solving Imperfect-Information Games**  
+  Kai Li, Hang Xu, Haobo Fu, Qiang Fu, Junliang Xing.  
+  *Artificial Intelligence (AI), 2024.*  
 
 - **Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent**  
   Hang Xu, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   

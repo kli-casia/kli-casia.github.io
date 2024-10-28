@@ -58,7 +58,7 @@ title: Publications
   *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.*  
   [Paper](https://ieeexplore.ieee.org/document/10153087){: .btn}
   [PDF](https://kli-casia.github.io/static/pdf/TNNLS-2023.pdf){: .btn} 
-  [News](http://www.ia.cas.cn/xwzx/kydt/202011/t20201109_5742123.html){: .btn}
+  [News](http://ia.cas.cn/xwzx/ttxw/202011/t20201120_5771620.html){: .btn}
   
   
  - **Sample Efficient Reinforcement Learning Using Graph-Based Memory Reconstruction**  

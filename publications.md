@@ -98,7 +98,7 @@ title: Publications
   Enmin Zhao, Renye Yan, Jinqiu Li, Kai Li, Junliang Xing.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2022. **Distinguished Paper Award!***  
   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20394){: .btn}
-  [News](http://www.ia.cas.cn/xwzx/kydt/202112/t20211210_6293703.html){: .btn}
+  [News](http://ia.cas.cn/kxyj/kydt_1/202112/t20211210_6293703.html){: .btn}
 
 - **Exploration via State Influence Modeling**  
   Yongxin Kang, Enmin Zhao, Kai Li, Junliang Xing.  

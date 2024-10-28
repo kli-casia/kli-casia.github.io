@@ -57,7 +57,7 @@ title: Publications
   Kai Li, Hang Xu, Enmin Zhao, Zhe Wu, Junliang Xing.  
   *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.*  
   [Paper](https://ieeexplore.ieee.org/document/10153087){: .btn}
-  [ArXiv](https://arxiv.org/abs/2012.06168){: .btn}
+  [PDF](https://kli-casia.github.io/static/pdf/TNNLS-2023.pdf){: .btn} 
   [News](http://www.ia.cas.cn/xwzx/kydt/202011/t20201109_5742123.html){: .btn}
   
   

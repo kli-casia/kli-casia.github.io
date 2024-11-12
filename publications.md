@@ -15,7 +15,7 @@ title: Publications
 
 - **Efficient Multi-task Reinforcement Learning with Cross-Task Policy Guidance**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
-  *Neural Information Processing Systems (NeurIPS), 2024. (Corresponding Author)*
+  *Neural Information Processing Systems (NeurIPS), 2024. (Corresponding Author)*  
   [Paper](https://openreview.net/forum?id=3qUks3wrnH&noteId=LNTe5P1Hof){: .btn}
   [Code](https://openreview.net/attachment?id=3qUks3wrnH&name=supplementary_material){: .btn} 
 

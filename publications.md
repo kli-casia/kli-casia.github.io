@@ -21,7 +21,7 @@ title: Publications
 
 - **Opponent Modeling with In-context Search**  
   Yuheng Jing, Bingyun Liu, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
-  *Neural Information Processing Systems (NeurIPS), 2024. (Corresponding Author)* 
+  *Neural Information Processing Systems (NeurIPS), 2024. (Corresponding Author)*   
   [Paper](https://openreview.net/forum?id=bGhsbfyg3b){: .btn}
   [Code](https://openreview.net/attachment?id=bGhsbfyg3b&name=supplementary_material){: .btn} 
 

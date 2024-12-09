@@ -5,6 +5,11 @@ title: Publications
 
 **Recent Papers:**
 
+- **An Open-Ended Learning Framework for Opponent Modeling**  
+  Yuheng Jing, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2025. (Corresponding Author)*  
+  [Paper](){: .btn}  
+
 
 - **Automatically Designing Counterfactual Regret Minimization Algorithms for Solving Imperfect-Information Games**  
   Kai Li, Hang Xu, Haobo Fu, Qiang Fu, Junliang Xing.  

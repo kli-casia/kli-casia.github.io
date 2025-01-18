@@ -7,7 +7,7 @@ title: Publications
 
 - **An Open-Ended Learning Framework for Opponent Modeling**  
   Yuheng Jing, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
-  *AAAI Conference on Artificial Intelligence (AAAI), 2025. (Corresponding Author)*  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2025, **Oral, Top 5%**. (Corresponding Author)*  
   [Paper](){: .btn}  
 
 

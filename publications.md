@@ -5,6 +5,12 @@ title: Publications
 
 **Recent Papers:**
 
+- **Diverse Policies Recovering via Pointwise Mutual Information Weighted Imitation Learning**  
+  Hanlin Yang, Jian Yao, Weiming Liu, Qing Wang, Hanmin Qin, Kong hansheng, Kirk Tang, Jiechao Xiong, Chao Yu, Kai Li, Junliang Xing, Hongwu Chen, Juchao Zhuo, 
+  Qiang Fu, Yang Wei, Haobo Fu.  
+  *International Conference on Learning Representations (ICLR), 2025.*  
+  [Paper](){: .btn}  
+
 - **An Open-Ended Learning Framework for Opponent Modeling**  
   Yuheng Jing, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2025, **Oral, Top 5%**. (Corresponding Author)*  

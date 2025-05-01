@@ -5,6 +5,16 @@ title: Publications
 
 **Recent Papers:**
 
+- **Offline Opponent Modeling with Truncated Q-driven Instant Policy Refinement**  
+  Yuheng Jing, Kai Li, Bingyun Liu, Ziwen Zhang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
+  *International Conference on Machine Learning (ICML), 2025. (Corresponding Author)*  
+  [Paper](){: .btn}
+
+- **Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**  
+  Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
+  *International Conference on Machine Learning (ICML), 2025. (Corresponding Author)*  
+  [Paper](){: .btn}   
+
 - **An Open-Ended Learning Framework for Opponent Modeling**  
   Yuheng Jing, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2025, **Oral, Top 5%**. (Corresponding Author)*  

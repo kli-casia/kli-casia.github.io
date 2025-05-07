@@ -22,7 +22,7 @@ title: Publications
 
 - **Enhanced Equilibria-Solving via Private Information Pre-Branch Structure in Adversarial Team Games**  
   Chen Qiu, Haobo Fu, Kai Li, Jiajia Zhang, Xuan Wang.  
-  *Conference on Uncertainty in Artificial Intelligence (UAI), 2025.*  
+  *The Conference on Uncertainty in Artificial Intelligence (UAI), 2025.*  
   [Paper](){: .btn} 
 
 - **Diverse Policies Recovering via Pointwise Mutual Information Weighted Imitation Learning**  

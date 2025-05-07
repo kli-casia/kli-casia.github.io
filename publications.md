@@ -20,6 +20,11 @@ title: Publications
   *AAAI Conference on Artificial Intelligence (AAAI), 2025, **Oral, Top 5%**. (Corresponding Author)*  
   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34488){: .btn}  
 
+- **Enhanced Equilibria-Solving via Private Information Pre-Branch Structure in Adversarial Team Games**  
+  Chen Qiu, Haobo Fu, Kai Li, Jiajia Zhang, Xuan Wang.  
+  *Conference on Uncertainty in Artificial Intelligence (UAI), 2025.*  
+  [Paper](){: .btn} 
+
 - **Diverse Policies Recovering via Pointwise Mutual Information Weighted Imitation Learning**  
   Hanlin Yang, Jian Yao, Weiming Liu, Qing Wang, Hanmin Qin, Kong hansheng, Kirk Tang, Jiechao Xiong, Chao Yu, Kai Li, Junliang Xing, Hongwu Chen, Juchao Zhuo, 
   Qiang Fu, Yang Wei, Haobo Fu.  

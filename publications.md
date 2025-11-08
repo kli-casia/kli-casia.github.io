@@ -5,15 +5,20 @@ title: Publications
 
 **Recent Papers:**
 
+- **Deep (Predictive) Discounted Counterfactual Regret Minimization**  
+  Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2026, **Oral**. (Corresponding Author)*  
+  [Paper](){: .btn}
+
 - **Offline Opponent Modeling with Truncated Q-driven Instant Policy Refinement**  
   Yuheng Jing, Kai Li, Bingyun Liu, Ziwen Zhang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *International Conference on Machine Learning (ICML), 2025. (Corresponding Author)*  
-  [Paper](){: .btn}
+  [Paper](https://openreview.net/forum?id=LNfiFWccxn){: .btn}
 
 - **Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**  
   Jinmin He, Kai Li, Yifan Zang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.   
   *International Conference on Machine Learning (ICML), 2025. (Corresponding Author)*  
-  [Paper](){: .btn}   
+  [Paper](https://openreview.net/forum?id=ZeetWz8zbG){: .btn}   
 
 - **An Open-Ended Learning Framework for Opponent Modeling**  
   Yuheng Jing, Kai Li, Bingyun Liu, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  

@@ -7,7 +7,7 @@ title: Publications
 
 - **Towards Foresighted AI Cooperators with LLM-driven Decision-Time Planning**  
   Yuheng Jing, Kai Li, Bingyun Liu, Ziwen Zhang, Zhe Wu, Yifan Zhang, Junliang Xing, Jian Cheng.  
-  *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026. **Oral** (Corresponding Author)*  
+  *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026. **Oral**. (Corresponding Author)*  
   [Paper](){: .btn}
 
 - **Deep (Predictive) Discounted Counterfactual Regret Minimization**  

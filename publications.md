@@ -5,6 +5,11 @@ title: Publications
 
 **Recent Papers:**
 
+- **Towards Foresighted AI Cooperators with LLM-driven Decision-Time Planning**  
+  Yuheng Jing, Kai Li, Bingyun Liu, Ziwen Zhang, Zhe Wu, Yifan Zhang, Junliang Xing, Jian Cheng.  
+  *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026. (Corresponding Author)*  
+  [Paper](){: .btn}
+
 - **Deep (Predictive) Discounted Counterfactual Regret Minimization**  
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2026, **Oral**. (Corresponding Author)*  

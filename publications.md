@@ -14,6 +14,7 @@ title: Publications
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2026, **Oral**. (Corresponding Author)*  
   [Paper](){: .btn}
+  [ArXiv](https://arxiv.org/abs/2511.08174){: .btn}
 
 - **Offline Opponent Modeling with Truncated Q-driven Instant Policy Refinement**  
   Yuheng Jing, Kai Li, Bingyun Liu, Ziwen Zhang, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  

@@ -9,11 +9,13 @@ title: Publications
   Yuheng Jing, Kai Li, Bingyun Liu, Ziwen Zhang, Zhe Wu, Yifan Zhang, Junliang Xing, Jian Cheng.  
   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026. **Oral**. (Corresponding Author)*  
   [Paper](){: .btn}
+  
 
   - **K²-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control**  
   Zhe Wu, Donglin Mo, Hongjin Lu, Junliang Xing, Jianheng Liu, Yuheng Jing, Kai Li, Kun Shao, Jianye Hao, Yuanchun Shi.  
   *International Conference on Learning Representations (ICLR), 2026.*  
-  [Paper](https://openreview.net/forum?id=9BKg0BAWrb){: .btn}  
+  [Paper](https://openreview.net/forum?id=9BKg0BAWrb){: .btn}
+
 
 - **Deep (Predictive) Discounted Counterfactual Regret Minimization**  
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  

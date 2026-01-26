@@ -11,7 +11,7 @@ title: Publications
   [Paper](){: .btn}
   
 
-  - **K²-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control**  
+- **K²-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control**  
   Zhe Wu, Donglin Mo, Hongjin Lu, Junliang Xing, Jianheng Liu, Yuheng Jing, Kai Li, Kun Shao, Jianye Hao, Yuanchun Shi.  
   *International Conference on Learning Representations (ICLR), 2026.*  
   [Paper](https://openreview.net/forum?id=9BKg0BAWrb){: .btn}

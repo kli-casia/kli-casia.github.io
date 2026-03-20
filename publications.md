@@ -109,7 +109,7 @@ title: Publications
 
 - **OpenHoldem: A Benchmark for Large-Scale Imperfect-Information Game Research.**  
   Kai Li, Hang Xu, Enmin Zhao, Zhe Wu, Junliang Xing.  
-  *IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023.*  
+  *IEEE Transactions on Neural Networks and Learning Systems, 2023.*  
   [Paper](https://ieeexplore.ieee.org/document/10153087){: .btn}
   [PDF](https://kli-casia.github.io/static/pdf/TNNLS-2023.pdf){: .btn} 
   [News](http://ia.cas.cn/xwzx/ttxw/202011/t20201120_5771620.html){: .btn}

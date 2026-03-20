@@ -57,7 +57,7 @@ title: Publications
 
 - **Automatically Designing Counterfactual Regret Minimization Algorithms for Solving Imperfect-Information Games.**  
   Kai Li, Hang Xu, Haobo Fu, Qiang Fu, Junliang Xing.  
-  *Artificial Intelligence (AI), 2024.*  
+  *Artificial Intelligence, 2024.*  
   [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0004370224001681){: .btn}
   [PDF](https://kli-casia.github.io/static/pdf/AIJ.pdf){: .btn}
   [Code](https://github.com/kli-casia/AutoCFR-AIJ){: .btn} 

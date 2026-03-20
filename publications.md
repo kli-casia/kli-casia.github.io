@@ -26,7 +26,7 @@ title: Publications
 - **Deep (Predictive) Discounted Counterfactual Regret Minimization.**  
   Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing, Jian Cheng.  
   *AAAI Conference on Artificial Intelligence (AAAI), 2026, **Oral**. (Corresponding Author)*  
-  [Paper](){: .btn}
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38780){: .btn}
   [ArXiv](https://arxiv.org/abs/2511.08174){: .btn}
 
 - **Offline Opponent Modeling with Truncated Q-driven Instant Policy Refinement.**  

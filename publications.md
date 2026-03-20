@@ -117,7 +117,7 @@ title: Publications
   
  - **Sample Efficient Reinforcement Learning Using Graph-Based Memory Reconstruction.**  
   Yongxin Kang, Enmin Zhao, Yifan Zang, Lijuan Li, Kai Li, Pin Tao, Junliang Xing.  
-  *IEEE Transactions on Artificial Intelligence (TAI), 2023.*  
+  *IEEE Transactions on Artificial Intelligence, 2023.*  
   [Paper](https://ieeexplore.ieee.org/document/10105983/){: .btn}
   [PDF](https://kli-casia.github.io/static/pdf/TAI-2023.pdf){: .btn}  
 

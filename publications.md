@@ -3,6 +3,14 @@ layout: page
 title: Publications
 ---
 
+
+**Preprints:**
+
+- **Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery.**  
+  Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng. 
+  [Paper](https://arxiv.org/abs/2601.22896){: .btn}
+
+
 **Recent Papers:**
 
 - **Evolutionary Augmented Reinforcement Learning for Neural Combinatorial Optimization.**  

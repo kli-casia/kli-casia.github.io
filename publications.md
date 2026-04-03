@@ -7,13 +7,13 @@ title: Publications
 **Preprints:**
 
 - **Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery.**  
-  Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.
-  *arXiv:2601.22896. (Corresponding Author)*      
+  Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.    
+  *arXiv:2601.22896. (Corresponding Author)*        
   [Paper](https://arxiv.org/abs/2601.22896){: .btn}
 
 - **DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience**  
-  Runxiang Wang, Boxiao Wang, Kai Li, Yifan Zhang, Jian Cheng.
-  *arXiv:2506.04282. (Corresponding Author)*  
+  Runxiang Wang, Boxiao Wang, Kai Li, Yifan Zhang, Jian Cheng.     
+  *arXiv:2506.04282. (Corresponding Author)*     
   [Paper](https://arxiv.org/abs/2506.04282){: .btn}
 
 

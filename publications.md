@@ -21,28 +21,28 @@ title: Publications
 **Recent Papers:**
 
 - **Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery.**  
-  Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.
+  Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.    
   *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*      
   [Paper](){: .btn}
   [ArXiv](https://arxiv.org/abs/2601.22896){: .btn}
 
 
 - **Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork.**  
-  Yuheng Jing, Kai Li, Jiajun Zhang, Zeyao Ma, Jiaxi Yang, Lei Zhang, Zhe Wu, Jinmin He, Junliang Xing, Jian Cheng.
-  *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*
+  Yuheng Jing, Kai Li, Jiajun Zhang, Zeyao Ma, Jiaxi Yang, Lei Zhang, Zhe Wu, Jinmin He, Junliang Xing, Jian Cheng.   
+  *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*    
   [Paper](){: .btn}
 
 
 - **HyMTRL: A Hybrid Multi-Task Reinforcement Learning Framework via Phased Policy Evolution.**  
-  Jinmin He, Kai Li, Xiaoyi Dong, Yifan Zang, Yuheng Jing, Yifan Zhang, Junliang Xing, Jian Cheng.
-  *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*
+  Jinmin He, Kai Li, Xiaoyi Dong, Yifan Zang, Yuheng Jing, Yifan Zhang, Junliang Xing, Jian Cheng.    
+  *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*    
   [Paper](){: .btn}
 
 
 
-- **Bringing Code ALIVE: Optimizing Interactive Frontend Mini-Games via Automated Play and Reinforcement Learning at Scale.**  
-  Jiajun Zhang, Yuheng Jing, Zeyu Cui, Hao Zheng, Wentao Chen, Kaixin Li, Jiaxi Yang, Tianbao Xie, Zeyao Ma, Tianyi Bai, KaShun SHUM, Lei Zhang, Kai Li, Jian Cheng, Zilei Wang, Qiang Liu, Liang Wang, Junyang Lin, Binyuan Hui.
-  *International Conference on Machine Learning (ICML), 2026.*
+- **Bringing Code ALIVE: Optimizing Interactive Frontend Mini-Games via Automated Play and Reinforcement Learning at Scale.**    
+  Jiajun Zhang, Yuheng Jing, Zeyu Cui, Hao Zheng, Wentao Chen, Kaixin Li, Jiaxi Yang, Tianbao Xie, Zeyao Ma, Tianyi Bai, KaShun SHUM, Lei Zhang, Kai Li, Jian Cheng, Zilei Wang, Qiang Liu, Liang Wang, Junyang Lin, Binyuan Hui.    
+  *International Conference on Machine Learning (ICML), 2026.*    
   [Paper](){: .btn}
 
 

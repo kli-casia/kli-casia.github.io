@@ -39,7 +39,8 @@ title: Publications
   [Paper](){: .btn}
 
 
-  - **Bringing Code ALIVE: Optimizing Interactive Frontend Mini-Games via Automated Play and Reinforcement Learning at Scale.**  
+
+- **Bringing Code ALIVE: Optimizing Interactive Frontend Mini-Games via Automated Play and Reinforcement Learning at Scale.**  
   Jiajun Zhang, Yuheng Jing, Zeyu Cui, Hao Zheng, Wentao Chen, Kaixin Li, Jiaxi Yang, Tianbao Xie, Zeyao Ma, Tianyi Bai, KaShun SHUM, Lei Zhang, Kai Li, Jian Cheng, Zilei Wang, Qiang Liu, Liang Wang, Junyang Lin, Binyuan Hui.
   *International Conference on Machine Learning (ICML), 2026.*
   [Paper](){: .btn}

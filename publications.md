@@ -23,7 +23,7 @@ title: Publications
 - **Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery.**  
   Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.
   *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*
-  [Paper](){: .btn}          
+  [Paper](){: .btn}  
   [ArXiv](https://arxiv.org/abs/2601.22896){: .btn}
 
 

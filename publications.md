@@ -17,7 +17,8 @@ title: Publications
   *arXiv:2506.04282. (Corresponding Author)*     
   [Paper](https://arxiv.org/abs/2506.04282){: .btn}
 
-  - **Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization.**  
+
+- **Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization.**  
   Shengda Gu, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.  
   *arXiv:2506.09404. (Corresponding Author)*  
   [Paper](https://arxiv.org/abs/2506.09404){: .btn}

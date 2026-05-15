@@ -17,6 +17,11 @@ title: Publications
   *arXiv:2506.04282. (Corresponding Author)*     
   [Paper](https://arxiv.org/abs/2506.04282){: .btn}
 
+  - **Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization.**  
+  Shengda Gu, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.  
+  *arXiv:2506.09404. (Corresponding Author)*  
+  [Paper](https://arxiv.org/abs/2506.09404){: .btn}
+
 
 **Recent Papers:**
 
@@ -43,14 +48,6 @@ title: Publications
 - **Bringing Code ALIVE: Optimizing Interactive Frontend Mini-Games via Automated Play and Reinforcement Learning at Scale.**    
   Jiajun Zhang, Yuheng Jing, Zeyu Cui, Hao Zheng, Wentao Chen, Kaixin Li, Jiaxi Yang, Tianbao Xie, Zeyao Ma, Tianyi Bai, KaShun SHUM, Lei Zhang, Kai Li, Jian Cheng, Zilei Wang, Qiang Liu, Liang Wang, Junyang Lin, Binyuan Hui.    
   *International Conference on Machine Learning (ICML), 2026.*    
-  [Paper](){: .btn}
-
-
-
-
-- **Evolutionary Augmented Reinforcement Learning for Neural Combinatorial Optimization.**  
-  Shengda Gu, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.  
-  *IEEE Transactions on Evolutionary Computation, 2026. (Corresponding Author)*  
   [Paper](){: .btn}
 
 

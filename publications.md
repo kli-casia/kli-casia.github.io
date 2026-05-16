@@ -7,11 +7,6 @@ title: Publications
 **Preprints:**
 
 
-- **LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization**  
-  Boxiao Wang, Kai Li, Tianyi Liu, Chen Li, Junzhe Wang, Yifan Zhang, Jian Cheng.     
-  *arXiv:2602.10576. (Corresponding Author)*     
-  [Paper](https://arxiv.org/abs/2602.10576){: .btn}
-
 - **DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience**  
   Runxiang Wang, Boxiao Wang, Kai Li, Yifan Zhang, Jian Cheng.     
   *arXiv:2506.04282. (Corresponding Author)*     
@@ -25,6 +20,15 @@ title: Publications
 
 
 **Recent Papers:**
+
+
+- **LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization**  
+  Boxiao Wang, Kai Li, Tianyi Liu, Chen Li, Junzhe Wang, Yifan Zhang, Jian Cheng.     
+  *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). (Corresponding Author)*   
+  [Paper](){: .btn}
+  [ArXiv](https://arxiv.org/abs/2602.10576){: .btn}
+
+
 
 - **Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery.**  
   Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.    

@@ -7,7 +7,7 @@ title: Publications
 **Preprints:**
 
 
-- **DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience**  
+- **DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience.**  
   Runxiang Wang, Boxiao Wang, Kai Li, Yifan Zhang, Jian Cheng.     
   *arXiv:2506.04282. (Corresponding Author)*     
   [Paper](https://arxiv.org/abs/2506.04282){: .btn}
@@ -22,7 +22,7 @@ title: Publications
 **Recent Papers:**
 
 
-- **LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization**  
+- **LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization.**  
   Boxiao Wang, Kai Li, Tianyi Liu, Chen Li, Junzhe Wang, Yifan Zhang, Jian Cheng.     
   *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026. (Corresponding Author)*   
   [Paper](){: .btn}

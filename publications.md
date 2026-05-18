@@ -24,7 +24,7 @@ title: Publications
 
 - **LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization**  
   Boxiao Wang, Kai Li, Tianyi Liu, Chen Li, Junzhe Wang, Yifan Zhang, Jian Cheng.     
-  *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). (Corresponding Author)*   
+  *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026. (Corresponding Author)*   
   [Paper](){: .btn}
   [ArXiv](https://arxiv.org/abs/2602.10576){: .btn}
 

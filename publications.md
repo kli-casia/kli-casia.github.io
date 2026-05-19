@@ -10,7 +10,7 @@ title: Publications
 - **DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience.**  
   Runxiang Wang, Boxiao Wang, Kai Li, Yifan Zhang, Jian Cheng.     
   *arXiv:2506.04282. (Corresponding Author)*     
-  [Paper](https://arxiv.org/abs/2506.04282){: .btn}
+  [ArXiv](https://arxiv.org/abs/2506.04282){: .btn}
 
 
 

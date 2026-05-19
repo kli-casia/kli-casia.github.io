@@ -13,13 +13,14 @@ title: Publications
   [Paper](https://arxiv.org/abs/2506.04282){: .btn}
 
 
-- **Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization.**  
-  Shengda Gu, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.  
-  *arXiv:2506.09404. (Corresponding Author)*  
-  [Paper](https://arxiv.org/abs/2506.09404){: .btn}
-
 
 **Recent Papers:**
+
+- **Evolutionary Augmented Reinforcement Learning for Neural Combinatorial Optimization.**  
+  Shengda Gu, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.  
+  *IEEE Transactions on Evolutionary Computation, 2026. (Corresponding Author)*  
+  [Paper](){: .btn}
+  [ArXiv](https://arxiv.org/abs/2506.09404){: .btn}
 
 
 - **LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization.**  

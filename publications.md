@@ -59,7 +59,7 @@ title: Publications
 - **Towards Foresighted AI Cooperators with LLM-driven Decision-Time Planning.**  
   Yuheng Jing, Kai Li, Bingyun Liu, Ziwen Zhang, Zhe Wu, Yifan Zhang, Junliang Xing, Jian Cheng.  
   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026. **Oral**. (Corresponding Author)*  
-  [Paper](){: .btn}
+  [Paper](https://doi.org/10.65109/XALP4331){: .btn}
   
 
 - **K²-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control.**  

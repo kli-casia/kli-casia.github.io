@@ -12,6 +12,23 @@ title: Publications
   *arXiv:2506.04282. (Corresponding Author)*     
   [ArXiv](https://arxiv.org/abs/2506.04282){: .btn}
 
+- **When Good Equations Get Bad Scores: Improving Symbolic Regression Through Better Parameter Optimization.**  
+  Boxiao Wang, Kai Li, Zhiwei Chen, Yang Huang, Runxiang Wang, Ziwen Zhang, Yifan Zhang, Jian Cheng.     
+  *arXiv:2605.23272. (Corresponding Author)*     
+  [ArXiv](https://arxiv.org/abs/2605.23272){: .btn}
+
+
+- **AutoPref: Automatic Discovery of Task-Specific Preference Objectives for Neural Combinatorial Optimization.**  
+  Shengda Gu, Kai Li, Xinyi Ke, Haobo Fu, Yifan Zhang, Jian Cheng.     
+  *arXiv:2607.27953. (Corresponding Author)*     
+  [ArXiv](https://arxiv.org/abs/2607.27953){: .btn}
+
+- **EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks.**  
+  Peng Yin, Kai Li, Yifan Zhang, Jian Cheng.     
+  *arXiv:2607.26490. (Corresponding Author)*     
+  [ArXiv](https://arxiv.org/abs/2607.26490){: .btn}
+
+  
 
 
 **Recent Papers:**

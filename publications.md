@@ -18,6 +18,12 @@ title: Publications
   [ArXiv](https://arxiv.org/abs/2605.23272){: .btn}
 
 
+  - **MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models.**  
+  Boxiao Wang, Runxiang Wang, Kai Li, Chongming Li, Zhiwei Chen, Yifan Zhang, Jian Cheng.     
+  *arXiv:2607.29561. (Corresponding Author)*     
+  [ArXiv](https://arxiv.org/abs/2607.29561){: .btn}
+
+
 - **AutoPref: Automatic Discovery of Task-Specific Preference Objectives for Neural Combinatorial Optimization.**  
   Shengda Gu, Kai Li, Xinyi Ke, Haobo Fu, Yifan Zhang, Jian Cheng.     
   *arXiv:2607.27953. (Corresponding Author)*     

@@ -48,7 +48,7 @@ title: Publications
 - **LLM-Based Scientific Equation Discovery via Physics-Informed Token-Regularized Policy Optimization.**  
   Boxiao Wang, Kai Li, Tianyi Liu, Chen Li, Junzhe Wang, Yifan Zhang, Jian Cheng.     
   *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026. (Corresponding Author)*   
-  [Paper](){: .btn}
+  [Paper](https://dl.acm.org/doi/10.1145/3770855.3818869){: .btn}
   [ArXiv](https://arxiv.org/abs/2602.10576){: .btn}
 
 
@@ -56,27 +56,27 @@ title: Publications
 - **Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery.**  
   Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.    
   *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*      
-  [Paper](){: .btn}
+  [Paper](https://openreview.net/forum?id=z9x30tqLUV){: .btn}
   [ArXiv](https://arxiv.org/abs/2601.22896){: .btn}
 
 
 - **Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork.**  
   Yuheng Jing, Kai Li, Jiajun Zhang, Zeyao Ma, Jiaxi Yang, Lei Zhang, Zhe Wu, Jinmin He, Junliang Xing, Jian Cheng.   
   *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*    
-  [Paper](){: .btn}
+  [Paper](https://openreview.net/forum?id=EbkumuY3eW){: .btn}
 
 
 - **HyMTRL: A Hybrid Multi-Task Reinforcement Learning Framework via Phased Policy Evolution.**  
   Jinmin He, Kai Li, Xiaoyi Dong, Yifan Zang, Yuheng Jing, Yifan Zhang, Junliang Xing, Jian Cheng.    
   *International Conference on Machine Learning (ICML), 2026. (Corresponding Author)*    
-  [Paper](){: .btn}
+  [Paper](https://openreview.net/forum?id=Jo7Mt1XbuQ){: .btn}
 
 
 
 - **Bringing Code ALIVE: Optimizing Interactive Frontend Mini-Games via Automated Play and Reinforcement Learning at Scale.**    
   Jiajun Zhang, Yuheng Jing, Zeyu Cui, Hao Zheng, Wentao Chen, Kaixin Li, Jiaxi Yang, Tianbao Xie, Zeyao Ma, Tianyi Bai, KaShun SHUM, Lei Zhang, Kai Li, Jian Cheng, Zilei Wang, Qiang Liu, Liang Wang, Junyang Lin, Binyuan Hui.    
   *International Conference on Machine Learning (ICML), 2026.*    
-  [Paper](){: .btn}
+  [Paper](https://openreview.net/forum?id=lQMenSSNvW){: .btn}
 
 
 - **Towards Foresighted AI Cooperators with LLM-driven Decision-Time Planning.**  

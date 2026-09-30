@@ -40,6 +40,11 @@ title: Publications
   *arXiv:2607.26490. (Corresponding Author)*     
   [ArXiv](https://arxiv.org/abs/2607.26490){: .btn}
 
+
+- **SPO: Discovering Adaptive Large Neighborhood Search Operators via Stackelberg Program Optimization.**  
+  Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.     
+  *arXiv:2609.31179. (Corresponding Author)*     
+  [ArXiv](https://arxiv.org/abs/2609.31179){: .btn}
   
 
 

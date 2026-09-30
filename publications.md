@@ -24,6 +24,12 @@ title: Publications
   [ArXiv](https://arxiv.org/abs/2607.29561){: .btn}
 
 
+- **Not Every Term Adds New Structure: Sobolev Novelty for Symbolic Regression.**  
+  Boxiao Wang, Kai Li, Yuheng Jing, Tianyi Liu, Chen Li, Yifan Zhang, Jian Cheng.    
+  *arXiv:2609.32597. (Corresponding Author)*     
+  [ArXiv](https://arxiv.org/abs/2609.32597){: .btn}
+
+
 - **AutoPref: Automatic Discovery of Task-Specific Preference Objectives for Neural Combinatorial Optimization.**  
   Shengda Gu, Kai Li, Xinyi Ke, Haobo Fu, Yifan Zhang, Jian Cheng.     
   *arXiv:2607.27953. (Corresponding Author)*     

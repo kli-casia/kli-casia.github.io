@@ -18,12 +18,6 @@ title: Publications
   [ArXiv](https://arxiv.org/abs/2605.23272){: .btn}
 
 
-- **MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models.**  
-  Boxiao Wang, Runxiang Wang, Kai Li, Chongming Li, Zhiwei Chen, Yifan Zhang, Jian Cheng.     
-  *arXiv:2607.29561. (Corresponding Author)*     
-  [ArXiv](https://arxiv.org/abs/2607.29561){: .btn}
-
-
 - **Not Every Term Adds New Structure: Sobolev Novelty for Symbolic Regression.**  
   Boxiao Wang, Kai Li, Yuheng Jing, Tianyi Liu, Chen Li, Yifan Zhang, Jian Cheng.    
   *arXiv:2609.32597. (Corresponding Author)*     
@@ -49,6 +43,11 @@ title: Publications
 
 
 **Recent Papers:**
+
+- **MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models.**  
+  Boxiao Wang, Runxiang Wang, Kai Li, Chongming Li, Zhiwei Chen, Yifan Zhang, Jian Cheng.     
+  *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2027. (Corresponding Author)*      
+  [ArXiv](https://arxiv.org/abs/2607.29561){: .btn}
 
 - **Evolutionary Augmented Reinforcement Learning for Neural Combinatorial Optimization.**  
   Shengda Gu, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.  

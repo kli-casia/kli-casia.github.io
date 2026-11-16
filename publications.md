@@ -49,6 +49,11 @@ title: Publications
   *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2027. (Corresponding Author)*      
   [ArXiv](https://arxiv.org/abs/2607.29561){: .btn}
 
+- **Learning to Destroy and Repair Local Optima in Multilinear Graph QUBO Optimization.**  
+  Yang Huang, Yifan Zhang, Kai Li, Jian Cheng.  
+  *Transactions on Machine Learning Research, 2026.*  
+  [Paper](https://openreview.net/forum?id=mwyTnQWtPa){: .btn}
+
 - **Evolutionary Augmented Reinforcement Learning for Neural Combinatorial Optimization.**  
   Shengda Gu, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.  
   *IEEE Transactions on Evolutionary Computation, 2026. (Corresponding Author)*  
@@ -60,7 +65,6 @@ title: Publications
   *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026. (Corresponding Author)*   
   [Paper](https://dl.acm.org/doi/10.1145/3770855.3818869){: .btn}
   [ArXiv](https://arxiv.org/abs/2602.10576){: .btn}
-
 
 
 - **Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery.**  

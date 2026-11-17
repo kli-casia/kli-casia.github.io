@@ -39,7 +39,13 @@ title: Publications
   Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng.     
   *arXiv:2609.31179. (Corresponding Author)*     
   [ArXiv](https://arxiv.org/abs/2609.31179){: .btn}
-  
+
+- **EasyFoam: Skill-Oriented OpenFOAM Agents with Evidence-Driven Evolution.**  
+  Peng Yin, Zhiwei Chen, Tianyi Liu, Chen Li, Kai Li, Jian Cheng.     
+  *arXiv:2611.14525. (Corresponding Author)*     
+  [ArXiv](https://arxiv.org/abs/2611.14525){: .btn}
+  [Code](https://github.com/CAS-CLab/EasyFoam){: .btn}
+  [Project](https://cas-clab.github.io/EasyFoam/){: .btn}
 
 
 **Recent Papers:**
